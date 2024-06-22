@@ -2,9 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4bd62367-14c2-48d9-a75e-4f214cd69aa8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/jpmcproject/api/api/views.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jpmcproject/api/api/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/jpmcproject/api/api/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jpmcproject/api/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jpmcproject/api/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jpmcproject/api/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jpmcproject/api/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jpmcproject/api/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jpmcproject/api/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jpmcproject/api/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jpmcproject/jpmcproject/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/jpmcproject/jpmcproject/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jpmcproject/jpmcproject/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/jpmcproject/jpmcproject/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +41,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/PFSD/jpmcproject"
+    "last_opened_file_path": "C:/PFSD/jpmcproject/Team-24"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
